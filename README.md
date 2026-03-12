@@ -42,4 +42,25 @@ Tools
 
 ## How to Run Project
 
-1. Clone Repository
+1. Clone Repository.
+Arogya-Vahini
+│
+├── client                # Frontend (Vite + Tailwind)
+│   ├── src
+│   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── vite.config.js
+│   ├── tailwind.config.cjs
+│   └── postcss.config.cjs
+│
+├── server                # Backend (Flask API)
+│   ├── app.py
+│   ├── models.py
+│   └── requirements.txt
+│
+├── database              # Database files
+│
+├── README.md             # Project explanation
+├── .gitignore            # Ignore unnecessary files
+└── TODO.md
