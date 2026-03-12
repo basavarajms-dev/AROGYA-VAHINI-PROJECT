@@ -38,7 +38,6 @@ Database
 
 Tools
 - VS Code
-- Cursor AI
 - GitHub
 
 ## How to Run Project
