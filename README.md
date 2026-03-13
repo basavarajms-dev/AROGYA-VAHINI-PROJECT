@@ -31,7 +31,7 @@ Frontend
 
 Backend
 - Python
-- Flask
+-django
 
 Database
 - SQLite
